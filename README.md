@@ -1,6 +1,6 @@
 
 
-# Information Technology Projects through CourseCareers
+# Information Technology Projects
 
 Welcome to my collection of Information Technology projects completed through the **CourseCareers** program. These projects showcase a variety of essential IT skills in system installation, management, configuration, and troubleshooting. Below are the key projects I've worked on:
 
