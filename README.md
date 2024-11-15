@@ -2,8 +2,12 @@
 
 # Information Technology Projects
 
-Welcome to my collection of Information Technology projects completed through the **CourseCareers** program. These projects showcase a variety of essential IT skills in system installation, management, configuration, and troubleshooting. Below are the key projects I've worked on:
+Welcome to my collection of Information Technology projects completed through the **CourseCareers** program. These projects showcase a variety of essential IT skills in system installation, management, configuration, and troubleshooting. Below are the key projects I've worked on.
 
+
+Please refer to the individual project repositories for comprehensive instructions, step-by-step guides, scripts, configuration files, and all the resources used to successfully complete each task. Each repository contains the full details, including the tools, technologies, and methods implemented.
+
+---
 ## Projects
 
 1. **[osTicketing System](https://github.com/Andre1876/osTicketing-System)**  
