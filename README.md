@@ -1,4 +1,6 @@
-
+<!-- There are two hard things in computer science: -->
+<!-- 1. Naming things. -->
+<!-- 2. Off-by-one errors. -->
 
 # Information Technology Projects
 
@@ -6,7 +8,11 @@ Welcome to my collection of Information Technology projects completed through th
 
 
 Please refer to the individual project repositories for comprehensive instructions, step-by-step guides, scripts, configuration files, and all the resources used to successfully complete each task. Each repository contains the full details, including the tools, technologies, and methods implemented.
-
+<!-- Knock Knock! -->
+<!-- Who’s there? -->
+<!-- A loop! -->
+<!-- A loop who? -->
+<!-- A loop that never ends... 😱 -->
 ---
 ## Projects
 
@@ -20,7 +26,8 @@ Please refer to the individual project repositories for comprehensive instructio
    Setting up and troubleshooting DNS configurations to ensure proper network connectivity and domain name resolution.
 
 Each project includes a step-by-step guide, scripts, and resources that were used to accomplish the task. Please refer to the individual repositories for detailed instructions and code.
-
+<!-- What do you call a programmer who loves to work outside? -->
+<!-- A JavaScript developer! ☀️ -->
 ---
 **Skills Gained:**
 - System configuration and installation
