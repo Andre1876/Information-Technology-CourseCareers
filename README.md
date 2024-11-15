@@ -9,7 +9,7 @@ Welcome to my collection of Information Technology projects completed through th
 1. **[osTicketing System](https://github.com/Andre1876/osTicketing-System)**  
    Demonstration of installing and configuring an osTicketing system for IT support management.
 
-2. **[Active Directory Management](https://github.com/Andre1876/Active-Directory-Management)**  
+2. **[Active Directory Management And Group Policy in Active Directory](https://github.com/Andre1876/Active-Directory-Management)**  
    Hands-on project with Active Directory for user account creation, permissions management, and organizational structuring.
 
 3. **[DNS Configuration and Troubleshooting](https://github.com/Andre1876/DNS-Configuration-and-Troubleshooting)**  
