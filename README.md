@@ -35,3 +35,6 @@ Each project includes a step-by-step guide, scripts, and resources that were use
 - Managing user accounts and permissions
 - Configuring DNS and Group Policies
 - Implementing IT support ticketing systems
+
+
+<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
